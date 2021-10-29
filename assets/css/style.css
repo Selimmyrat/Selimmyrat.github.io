@@ -113,7 +113,7 @@ img {
     width: 40px;
     font-size: 24px;
     color: var(--skin-color);
-    border-radius: 50%;
+    border-radius: 0%;
     border: 2px solid var(--skin-color);
     font-weight: 600;
     text-transform: uppercase;
